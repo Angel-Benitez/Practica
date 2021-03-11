@@ -1,0 +1,16 @@
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\Participacion.csprojAssemblyReference.cache
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\Participacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\Participacion.AssemblyInfoInputs.cache
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\Participacion.AssemblyInfo.cs
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\Participacion.csproj.CoreCompileInputs.cache
+C:\Users\Belkis Bueno\Documents\Participacion\bin\Debug\net5.0\Participacion.exe
+C:\Users\Belkis Bueno\Documents\Participacion\bin\Debug\net5.0\Participacion.deps.json
+C:\Users\Belkis Bueno\Documents\Participacion\bin\Debug\net5.0\Participacion.runtimeconfig.json
+C:\Users\Belkis Bueno\Documents\Participacion\bin\Debug\net5.0\Participacion.runtimeconfig.dev.json
+C:\Users\Belkis Bueno\Documents\Participacion\bin\Debug\net5.0\Participacion.dll
+C:\Users\Belkis Bueno\Documents\Participacion\bin\Debug\net5.0\ref\Participacion.dll
+C:\Users\Belkis Bueno\Documents\Participacion\bin\Debug\net5.0\Participacion.pdb
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\Participacion.dll
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\ref\Participacion.dll
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\Participacion.pdb
+C:\Users\Belkis Bueno\Documents\Participacion\obj\Debug\net5.0\Participacion.genruntimeconfig.cache
